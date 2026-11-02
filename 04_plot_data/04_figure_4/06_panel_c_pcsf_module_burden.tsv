@@ -1,0 +1,15 @@
+layer	module_id	module_label	selected_nodes	mean_selection_frequency	endpoint_n	hub_n	total_strength
+host	H_NET_4	host_rna_processing	13	1	0	1	17.333333333333332
+host	H_NET_9	H_NET_9	9	1	0	1	13.333333333333334
+host	H_NET_1	host_signaling_broad	9	0.9444444444444444	1	1	12
+host	H_NET_13	H_NET_13	6	1	0	1	8.333333333333334
+host	H_NET_8	host_ubiquitin_proteostasis	5	1	0	0	7.333333333333333
+host	H_NET_6	H_NET_6	5	0.9	1	0	8.666666666666666
+host	H_NET_3	H_NET_3	3	0.6666666666666666	0	0	3
+host	H_NET_14	host_microtubule_cytoskeleton	2	1	0	0	4
+host	H_NET_16	H_NET_16	1	1	0	0	2.6666666666666665
+host	H_NET_11	H_NET_11	1	0.5	0	0	0.5
+pathogen	P_NET_2	P_NET_2	28	1	0	2	63.22222222222222
+pathogen	P_NET_1	parasite_cellular_process_broad	11	0.9545454545454546	1	1	11.055555555555555
+pathogen	P_NET_3	parasite_cytoplasmic_metabolism	8	1	0	1	10.333333333333334
+pathogen	P_NET_4	parasite_rna_processing	3	1	0	0	5

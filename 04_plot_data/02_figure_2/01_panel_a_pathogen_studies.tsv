@@ -1,0 +1,7 @@
+study_family	dataset_n	effect_rows	omics_type	biological_context	integration_role	analyzable	side	dataset_n_evidence	evidence_rows	voting_family	omics_group
+stage_proteome	1	934	proteome	Schizont vs merozoite stage proteome	parasite_accessible_vote	TRUE	pathogen	1	934	TRUE	Proteome
+surface_phospho	1	1369	phosphoproteome	Schizont surface phosphoproteome	parasite_accessible_vote	TRUE	pathogen	1	1369	TRUE	Proteome
+schizont_ref	1	805	proteome	Witschi 2013 schizont proteome reference	parasite_accessible_vote	TRUE	pathogen	1	805	TRUE	Proteome
+turboid_export	1	128	proximity_proteome	TurboID secreted / exportome	parasite_accessible_vote	TRUE	pathogen	1	128	TRUE	Proteome
+drug_target	1	4	proteome	MC4404 / eIF5A parasite proteins	parasite_accessible_vote	TRUE	pathogen	1	4	TRUE	Proteome
+surface_bioid	1	2	proximity_proteome	CLASP1 BioID parasite neighbours	parasite_accessible_vote	TRUE	pathogen	1	2	TRUE	Proteome

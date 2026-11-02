@@ -1,0 +1,78 @@
+node_id	gene_label	plot_order	module_label	shadow_high_confidence_member	support_fraction	agreement	agreement_low	agreement_high	posterior	prevalence	prevalence_low	prevalence_high	grid_frequency	cross_omics_support	median_standardized_effect	independent_evidence_count	evidence_count	independent_sources
+9913.ENSBTAP00000037989	ANKZF1	1	host_ubiquitin_proteostasis	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000028486	ANP32B	2		TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000056785	BASP1	3	host_signaling_broad	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000065455	CAPZA2	4	host_microtubule_cytoskeleton	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000036036	CDC37	5	H_NET_13	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000013337	CDK1	6	H_NET_6	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000012929	CFDP2	7	host_chromatin_organization	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000028602	CFL1	8	host_signaling_broad	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000004890	DNAJA2	9	H_NET_13	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000019499	EEF1D	10	H_NET_9	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000005581	EEF2	11	H_NET_9	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000042244	EFHD2	12		TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000059250	EIF2S2	13	H_NET_9	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000003545	EIF3G	14	H_NET_9	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000035745	ENSBTAP00000035745	15	H_NET_13	TRUE	1					1				TRUE		3	3	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000027067	G3BP1	16	host_rna_processing	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000068422	GAPVD1	17	H_NET_3	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000054012	H1-3	18		TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000013110	HNRNPA1	19	host_rna_processing	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000028162	HNRNPK	20	host_rna_processing	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000008225	HSP90AA1	21	H_NET_13	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000072629	HSP90AB1	22	H_NET_13	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000061981	HSPA2	23	H_NET_13	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000052422	HSPA5	24	H_NET_13	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000041898	HSPB1	25	host_signaling_broad	TRUE	1					1				TRUE		3	3	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000037502	IGF2R	26	H_NET_3	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000014194	MCM3	27	H_NET_6	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000057643	NACA	28	H_NET_9	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000029889	NAP1L4	29	host_rna_processing	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000063517	NASP	30	H_NET_6	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000059646	NDRG1	31		TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000063734	NDRG3	32		TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000034568	NHERF1	33	host_signaling_broad	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000007950	NMT1	34	H_NET_3	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000005789	NUDC	35	H_NET_6	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000003560	OSTF1	36		TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000007398	PAFAH1B2P68402	37	H_NET_11	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000012256	PDCD5	38	H_NET_9	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000065726	PDLIM2	39	H_NET_3	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000032864	PGAM1	40	host_metabolism	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000001045	PPP1R7	41	host_signaling_broad	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000011371	PRKAR1A	42	host_signaling_broad	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000040765	PSEN1	43	host_signaling_broad	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000007436	PSMD2	44	host_ubiquitin_proteostasis	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000008019	PSMD4	45	host_ubiquitin_proteostasis	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000029636	PSMD9	46	host_ubiquitin_proteostasis	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000044257	PSME2	47	host_ubiquitin_proteostasis	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000003305	PTMA	48	H_NET_2	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000060769	RANBP2	49	H_NET_16	TRUE	1					1				TRUE		3	5	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000015416	RASAL3	50	host_signaling_broad	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000054845	RENBP	51	host_metabolism	TRUE	1					1				TRUE		3	3	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000021033	RPL18A	52	H_NET_9	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000021651	RPL30	53	H_NET_9	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000048183	RPLP0	54	H_NET_9	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000002326	RPLP2	55	H_NET_9	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000002645	SASH3	56	host_microtubule_cytoskeleton	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000043669	SEPTIN2	57	H_NET_21	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000020102	SLC16A1	58	host_metabolism	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000018050	SLC1A5	59	host_metabolism	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000043550	SMC3	60	H_NET_6	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000059261	SRSF1	61	host_rna_processing	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000024299	SRSF2	62	host_rna_processing	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000049550	SRSF3	63	host_rna_processing	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000011240	SRSF6	64	host_rna_processing	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000033048	SRSF7	65	host_rna_processing	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000052803	STMN1	66	host_microtubule_cytoskeleton	TRUE	1					1				TRUE		3	3	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000018947	TARS1	67	H_NET_18	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000004499	TCEA1	68	host_transcription_machinery	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000014908	TMX1	69	H_NET_13	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000002225	TRA2B	70	host_rna_processing	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000063666	USP14	71	host_ubiquitin_proteostasis	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000026119	VASP	72	host_signaling_broad	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000013862	VPS4B	73	H_NET_17	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000023094	YBX1	74	host_rna_processing	TRUE	1					1				TRUE		3	4	dual_phospho;pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000072401	CD2AP	75	host_signaling_broad	FALSE	0.6666666666666666					0.6666666666666666				TRUE		2	4	dual_phospho;pxd056906_ev
+9913.ENSBTAP00000041967	MAPRE1	76	H_NET_6	FALSE	0.6666666666666666					0.6666666666666666				FALSE		2	3	pxd010713_ev;pxd056906_ev
+9913.ENSBTAP00000044619	PKM	77	host_metabolism	FALSE	0.6666666666666666					0.6666666666666666				TRUE		2	3	dual_phospho;pxd056906_ev

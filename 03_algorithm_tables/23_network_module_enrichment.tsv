@@ -1,0 +1,101 @@
+module_id	layer	module_size	rank	category	term	description	number_of_genes	fdr
+H_NET_1	host	1407	1	Function	GO:0005515	Protein binding	903	2.78e-151
+H_NET_1	host	1407	2	Process	GO:0048583	Regulation of response to stimulus	579	1.95e-118
+H_NET_1	host	1407	3	Process	GO:0050896	Response to stimulus	912	6.08e-114
+H_NET_1	host	1407	4	Process	GO:0065009	Regulation of molecular function	512	6.55e-114
+H_NET_1	host	1407	5	Process	GO:0010646	Regulation of cell communication	517	1.22e-111
+H_NET_1	host	1407	6	Process	GO:0023051	Regulation of signaling	518	1.32e-111
+H_NET_1	host	1407	7	Process	GO:0048518	Positive regulation of biological process	746	2.43e-111
+H_NET_1	host	1407	8	Process	GO:0035556	Intracellular signal transduction	353	3.05e-111
+H_NET_1	host	1407	9	Process	GO:0023052	Signaling	725	1.58e-108
+H_NET_1	host	1407	10	Process	GO:0009966	Regulation of signal transduction	481	1.77e-108
+H_NET_12	host	277	1	Process	GO:0006351	Transcription, DNA-templated	95	5.36e-83
+H_NET_12	host	277	2	COMPARTMENTS	GOCC:0005654	Nucleoplasm	106	1.43e-77
+H_NET_12	host	277	3	Process	GO:0034654	Nucleobase-containing compound biosynthetic process	98	5.51e-67
+H_NET_12	host	277	4	Process	GO:0016070	RNA metabolic process	121	3.56e-64
+H_NET_12	host	277	5	COMPARTMENTS	GOCC:0030880	RNA polymerase complex	57	5.83e-64
+H_NET_12	host	277	6	Process	GO:0006366	Transcription by RNA polymerase II	68	1.13e-61
+H_NET_12	host	277	7	COMPARTMENTS	GOCC:0000428	DNA-directed RNA polymerase complex	53	2.88e-61
+H_NET_12	host	277	8	Process	GO:0090304	Nucleic acid metabolic process	133	2.76e-60
+H_NET_12	host	277	9	COMPARTMENTS	GOCC:0031981	Nuclear lumen	109	6.63e-58
+H_NET_12	host	277	10	COMPARTMENTS	GOCC:0005634	Nucleus	173	2.61e-56
+H_NET_14	host	226	1	Process	GO:0007017	Microtubule-based process	116	3.83e-98
+H_NET_14	host	226	2	COMPARTMENTS	GOCC:0005856	Cytoskeleton	125	6.83e-94
+H_NET_14	host	226	3	COMPARTMENTS	GOCC:0015630	Microtubule cytoskeleton	101	1.29e-84
+H_NET_14	host	226	4	Process	GO:0000226	Microtubule cytoskeleton organization	84	2.29e-69
+H_NET_14	host	226	5	Process	GO:0006996	Organelle organization	145	1.62e-60
+H_NET_14	host	226	6	Process	GO:0007010	Cytoskeleton organization	94	9.68e-55
+H_NET_14	host	226	7	COMPARTMENTS	GOCC:0043232	Intracellular non-membrane-bounded organelle	126	4.04e-49
+H_NET_14	host	226	8	Process	GO:0070925	Organelle assembly	75	6.5e-49
+H_NET_14	host	226	9	COMPARTMENTS	GOCC:0005815	Microtubule organizing center	54	1.23e-46
+H_NET_14	host	226	10	Process	GO:0016043	Cellular component organization	150	1.26e-41
+H_NET_4	host	560	1	Process	GO:0016071	mRNA metabolic process	286	2.33e-268
+H_NET_4	host	560	2	Process	GO:0016070	RNA metabolic process	338	3.63e-233
+H_NET_4	host	560	3	Process	GO:0006397	mRNA processing	240	8.02e-231
+H_NET_4	host	560	4	Process	GO:0006396	RNA processing	284	2.15e-225
+H_NET_4	host	560	5	Function	GO:0003723	RNA binding	304	4.29e-208
+H_NET_4	host	560	6	Process	GO:0008380	RNA splicing	213	1.38e-206
+H_NET_4	host	560	7	Process	GO:0090304	Nucleic acid metabolic process	348	5.28e-203
+H_NET_4	host	560	8	Process	GO:0000398	mRNA splicing, via spliceosome	168	3.81e-162
+H_NET_4	host	560	9	Process	GO:0010467	Gene expression	305	9.91e-152
+H_NET_4	host	560	10	Process	GO:0034641	Cellular nitrogen compound metabolic process	354	5.07e-146
+H_NET_5	host	544	1	KEGG	bta01100	Metabolic pathways	329	2.54e-224
+H_NET_5	host	544	2	Process	GO:0044281	Small molecule metabolic process	280	2.23e-168
+H_NET_5	host	544	3	Process	GO:1901135	Carbohydrate derivative metabolic process	210	3.94e-135
+H_NET_5	host	544	4	Function	GO:0003824	Catalytic activity	418	1.52e-130
+H_NET_5	host	544	5	Process	GO:0019637	Organophosphate metabolic process	187	1.98e-117
+H_NET_5	host	544	6	Process	GO:0055086	Nucleobase-containing small molecule metabolic process	156	3.01e-115
+H_NET_5	host	544	7	Process	GO:0044237	Cellular metabolic process	399	2.18e-99
+H_NET_5	host	544	8	Process	GO:0006753	Nucleoside phosphate metabolic process	129	1e-91
+H_NET_5	host	544	9	Process	GO:0006793	Phosphorus metabolic process	217	1.1e-89
+H_NET_5	host	544	10	Process	GO:0009117	Nucleotide metabolic process	125	3.47e-88
+H_NET_7	host	468	1	Process	GO:0016570	Histone modification	163	6.05e-147
+H_NET_7	host	468	2	Process	GO:0006325	Chromatin organization	179	1.62e-139
+H_NET_7	host	468	3	Process	GO:0006355	Regulation of transcription, DNA-templated	303	2.66e-134
+H_NET_7	host	468	4	Process	GO:0051252	Regulation of RNA metabolic process	308	8.18e-130
+H_NET_7	host	468	5	Process	GO:0019219	Regulation of nucleobase-containing compound metabolic process	312	5.84e-125
+H_NET_7	host	468	6	Process	GO:0010556	Regulation of macromolecule biosynthetic process	305	3.89e-121
+H_NET_7	host	468	7	Process	GO:0031326	Regulation of cellular biosynthetic process	308	3.48e-120
+H_NET_7	host	468	8	COMPARTMENTS	GOCC:0005634	Nucleus	319	5.66e-118
+H_NET_7	host	468	9	Process	GO:0051276	Chromosome organization	184	1.76e-117
+H_NET_7	host	468	10	Process	GO:0010468	Regulation of gene expression	325	4.1e-116
+H_NET_8	host	422	1	Process	GO:0051603	Proteolysis involved in protein catabolic process	205	1.15e-180
+H_NET_8	host	422	2	Process	GO:0030163	Protein catabolic process	207	1.14e-175
+H_NET_8	host	422	3	Process	GO:0019941	Modification-dependent protein catabolic process	186	7.59e-163
+H_NET_8	host	422	4	Process	GO:0006508	Proteolysis	232	1.28e-159
+H_NET_8	host	422	5	Process	GO:0006511	Ubiquitin-dependent protein catabolic process	182	2.05e-159
+H_NET_8	host	422	6	Process	GO:1901565	Organonitrogen compound catabolic process	208	5.1e-150
+H_NET_8	host	422	7	Process	GO:0044265	Cellular macromolecule catabolic process	187	3.61e-147
+H_NET_8	host	422	8	Process	GO:0070647	Protein modification by small protein conjugation or removal	193	1.09e-144
+H_NET_8	host	422	9	Process	GO:0010498	Proteasomal protein catabolic process	143	4.44e-129
+H_NET_8	host	422	10	Process	GO:0019538	Protein metabolic process	302	1.22e-123
+P_NET_1	pathogen	616	1	Process	GO:0009987	Cellular process	526	7.78e-41
+P_NET_1	pathogen	616	2	Function	GO:0005488	Binding	458	1.86e-36
+P_NET_1	pathogen	616	3	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity	518	5.5e-34
+P_NET_1	pathogen	616	4	COMPARTMENTS	GOCC:0005622	Intracellular	476	2.19e-26
+P_NET_1	pathogen	616	5	Process	GO:0051716	Cellular response to stimulus	91	4.81e-15
+P_NET_1	pathogen	616	6	Process	GO:0006996	Organelle organization	114	3.82e-14
+P_NET_1	pathogen	616	7	Process	GO:0050896	Response to stimulus	92	2.33e-13
+P_NET_1	pathogen	616	8	Process	GO:0051603	Proteolysis involved in protein catabolic process	62	2.53e-13
+P_NET_1	pathogen	616	9	Function	GO:0005515	Protein binding	114	4.31e-13
+P_NET_1	pathogen	616	10	Process	GO:0051276	Chromosome organization	60	5.65e-13
+P_NET_3	pathogen	324	1	COMPARTMENTS	GOCC:0005737	Cytoplasm	209	2.5e-47
+P_NET_3	pathogen	324	2	KEGG	tan01100	Metabolic pathways	105	6.45e-46
+P_NET_3	pathogen	324	3	Function	GO:0003824	Catalytic activity	193	8.45e-31
+P_NET_3	pathogen	324	4	COMPARTMENTS	GOCC:0110165	Cellular anatomical entity	284	1.25e-25
+P_NET_3	pathogen	324	5	KEGG	tan01110	Biosynthesis of secondary metabolites	50	1.84e-22
+P_NET_3	pathogen	324	6	Process	GO:0044281	Small molecule metabolic process	69	1.48e-21
+P_NET_3	pathogen	324	7	Process	GO:0019637	Organophosphate metabolic process	58	1.95e-20
+P_NET_3	pathogen	324	8	Process	GO:0009987	Cellular process	272	5.72e-20
+P_NET_3	pathogen	324	9	Function	GO:0016491	Oxidoreductase activity	48	3.05e-19
+P_NET_3	pathogen	324	10	COMPARTMENTS	GOCC:0005739	Mitochondrion	60	1.08e-18
+P_NET_4	pathogen	225	1	Process	GO:0016071	mRNA metabolic process	109	3.32e-66
+P_NET_4	pathogen	225	2	Process	GO:0006397	mRNA processing	100	7.9e-64
+P_NET_4	pathogen	225	3	Process	GO:0016070	RNA metabolic process	143	3.12e-61
+P_NET_4	pathogen	225	4	Process	GO:0008380	RNA splicing	89	3.56e-57
+P_NET_4	pathogen	225	5	Process	GO:0006396	RNA processing	121	2.1e-54
+P_NET_4	pathogen	225	6	Process	GO:0090304	Nucleic acid metabolic process	146	6.46e-54
+P_NET_4	pathogen	225	7	Process	GO:0006139	Nucleobase-containing compound metabolic process	149	4.44e-51
+P_NET_4	pathogen	225	8	Function	GO:0003676	Nucleic acid binding	144	6.48e-51
+P_NET_4	pathogen	225	9	COMPARTMENTS	GOCC:0005634	Nucleus	129	1.52e-47
+P_NET_4	pathogen	225	10	Function	GO:0003723	RNA binding	115	2.86e-47

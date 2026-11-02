@@ -1,0 +1,5 @@
+axis_family	n_records	n_biological_axes	n_strict	n_relaxed	n_context	parasite_factors	host_targets
+microtubule_docking	4	3	1	1	1	p104|TaSP	MAPRE1|tubulin|CLASP1
+metabolic_proteostasis	3	3	1	2	0	TaPHB1|TaPin1	RUVBL1|PKM|FBXW7
+trafficking_signaling	4	4	1	3	0	TA20980|TA11965|TA05560|TaCyp1	CD2AP|TFG|RBM39|MED21
+protease_cullin	2	2	0	2	0	TaCP	PPP4C|CRBN

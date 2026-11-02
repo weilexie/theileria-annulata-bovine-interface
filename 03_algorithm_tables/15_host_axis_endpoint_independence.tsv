@@ -1,0 +1,14 @@
+axis_id	interaction_name	host_gene	host_node	all_source_consensus_tier	consensus_tier	host_recurrence_gate	host_evidence_n	vote_evidence_count	evidence_count_match	sources	independent_sources	independent_evidence_count	interface_proximal_sources	interface_proximal_evidence_count	independent_recurrence_pass	independent_measured	circular_host_state	recurrence_gate_flip	all_source_blocker	blocker
+E0005	p104=TA08425（正文确认）--MAPRE1	MAPRE1	9913.ENSBTAP00000041967	strict	strict	TRUE	3	3	TRUE	pxd010713_ev;pxd056906_ev;schizont_copur	pxd010713_ev;pxd056906_ev	2	schizont_copur	1	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+E0004	TaPHB1（无 TA 号记录于台账）--RUVBL1	RUVBL1	9913.ENSBTAP00000027964	strict	relaxed	TRUE	2	2	TRUE	pxd056906_ev;schizont_copur	pxd056906_ev	1	schizont_copur	1	FALSE	TRUE	FALSE	TRUE	TRUE	FALSE
+E0001	TA_15795?（文中作 TaPin1）--PKM	PKM	9913.ENSBTAP00000044619	strict	strict	TRUE	3	3	TRUE	dual_phospho;pxd056906_ev;schizont_copur	dual_phospho;pxd056906_ev	2	schizont_copur	1	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+E0009	TA20980--CD2AP	CD2AP	9913.ENSBTAP00000072401	strict	strict	TRUE	4	4	TRUE	bioid;dual_phospho;pxd056906_ev;schizont_copur	dual_phospho;pxd056906_ev	2	bioid;schizont_copur	2	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+E0021	TA11965 (XP_952499.1)--TFG	TFG	9913.ENSBTAP00000004503	strict	relaxed	TRUE	2	2	TRUE	pxd056906_ev;schizont_copur	pxd056906_ev	1	schizont_copur	1	FALSE	TRUE	FALSE	TRUE	TRUE	FALSE
+E0002	TaPin1（2015 论文，无 TA 号记录于二手引用）--FBXW7	FBXW7	9913.ENSBTAP00000064414	relaxed	relaxed	FALSE	1	1	TRUE	schizont_copur		0	schizont_copur	1	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE
+E0007	TaSP（基因号未给出，免疫优势表面蛋白）--TUBA1A	TUBA1A	9913.ENSBTAP00000001948	relaxed	relaxed	TRUE	2	2	TRUE	pxd010713_ev;pxd056906_ev	pxd010713_ev;pxd056906_ev	2		0	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+E0008	TaSP--TUBG1	TUBG1	9913.ENSBTAP00000055684	relaxed	relaxed	TRUE	3	3	TRUE	pxd010713_ev;pxd056906_ev;schizont_copur	pxd010713_ev;pxd056906_ev	2	schizont_copur	1	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+E0013	TaCP--PPP4C	PPP4C	9913.ENSBTAP00000017178	relaxed	relaxed	TRUE	2	2	TRUE	pxd056906_ev;schizont_copur	pxd056906_ev	1	schizont_copur	1	FALSE	TRUE	FALSE	TRUE	FALSE	FALSE
+E0020	TA05560 (XM_950452.1)--RBM39	RBM39	9913.ENSBTAP00000060007	relaxed	relaxed	TRUE	3	3	TRUE	dual_phospho;pxd056906_ev;schizont_copur	dual_phospho;pxd056906_ev	2	schizont_copur	1	TRUE	TRUE	FALSE	FALSE	FALSE	FALSE
+E0014	TaCyp1（基因号未给出）--MED21	MED21	9913.ENSBTAP00000074342	relaxed	relaxed	FALSE	1	1	TRUE	schizont_copur		0	schizont_copur	1	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE
+E0012	TaCP（aa66-413 胞外域，基因号未给出）--CRBN	CRBN	9913.ENSBTAP00000026031	relaxed	relaxed	FALSE	1	1	TRUE	schizont_copur		0	schizont_copur	1	FALSE	FALSE	TRUE	FALSE	FALSE	FALSE
+E0010	TA08425--CLASP1	CLASP1	9913.ENSBTAP00000056256	context_only	context_only	TRUE	3	3	TRUE	bioid;dual_phospho;schizont_copur	dual_phospho	1	bioid;schizont_copur	2	FALSE	TRUE	FALSE	TRUE	FALSE	FALSE

@@ -1,0 +1,4 @@
+module_id	scaffold_n	core_n	module_label	module_biological_label	dominant_function_class	module_function_signature	module_size	measured_n	context_n	string_mapped_n	primary_evidence_n	support_evidence_n	median_abs_surface_effect	top_nodes	total_strength
+P_NET_1	18	10	parasite_cellular_process_broad	parasite_cellular_process_broad	surface_export_trafficking	GO:0009987	616	18	0	18	18	18		MCM7;TA14650;TaSP;TA18450;TA14090;TA07750;TA05365;TA21100	985
+P_NET_3	12	7	parasite_cytoplasmic_metabolism	parasite_cytoplasmic_metabolism	membrane_bioenergetics	membrane_bioenergetics	324	12	0	12	12	12		TA20945;TA18615;TA07825;MT-CYB;TA10280;TA06760;TA06570;TA08420	1126
+P_NET_2	5	2	P_NET_2	P_NET_2	surface_export_trafficking	P_NET_2	356	5	0	5	5	5		TA06010;TA19475;TA20240;TA04005;TA04015	530

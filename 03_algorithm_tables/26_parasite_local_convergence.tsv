@@ -1,0 +1,2 @@
+analysis	selected_n	accessible_network_n	selected_fraction	observed_mean_same_side_diffusion	null_mean	null_sd	null_q025	null_q975	z	empirical_p_one_sided	permutations	null_scheme	primary_layer	selected_layer
+accessible_recurrent_core_local_convergence	19	35	0.5428571428571428	0.6157652513927818	0.4576053600470605	0.03391510944108802	0.39079120384788396	0.5251777743174504	4.663405011870941	9.999000099990002e-05	10000	accessible-layer degree-bin matched without replacement	accessible_annot=TRUE, pathogen network nodes	strict_member=TRUE within primary layer

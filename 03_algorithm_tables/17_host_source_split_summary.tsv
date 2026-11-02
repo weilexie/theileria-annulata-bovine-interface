@@ -1,0 +1,24 @@
+metric	value
+n_host_proteins_any_vote	8835
+n_host_proteins_evidence_count_ge2	2950
+n_host_proteins_independent_evidence_count_ge2	1034
+n_host_proteins_evidence_count_ge2_in_700	2668
+n_host_proteins_independent_evidence_count_ge2_in_700	968
+n_host_proteins_all_source_ge2_but_independent_lt2	1916
+n_axis_records	13
+n_all_source_strict_records	5
+n_manuscript_strict_records	3
+n_strict_independent_ge2	3
+n_strict_independent_ge1	3
+n_strict_independent_eq0	0
+n_all_source_strict_recurrence_gate_flip	2
+all_source_blocker	TRUE
+all_source_blocker_axes	E0004;E0021
+manuscript_blocker	FALSE
+blocker	FALSE
+blocker_axes	
+blocker_host_genes	
+future_rwr_independent_seed	optional (manuscript gate closed; RWR still 6-source)
+independent_source_lock	pxd010713_ev;pxd056906_ev;dual_phospho
+interface_proximal_source_lock	schizont_copur;mc4404;bioid
+primary_rwr_seed_column	evidence_count (all 6 sources; unchanged this round)

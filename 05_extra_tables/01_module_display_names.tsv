@@ -1,0 +1,11 @@
+module_id	layer	module_size	display_name	top_category	top_term	top_description	top_fdr	naming_note
+H_NET_1	host	1407	host_signaling_broad	Function	GO:0005515	Protein binding	2.78e-151	H_NET_1 has 1407 proteins; STRING enrichment is generic protein binding / signaling, not a tight module.
+H_NET_4	host	560	host_rna_processing	Process	GO:0016071	mRNA metabolic process	2.33e-268	Top STRING term is mRNA metabolic process.
+H_NET_5	host	544	host_metabolism	KEGG	bta01100	Metabolic pathways	2.5400000000000003e-224	Top STRING term is KEGG metabolic pathways.
+H_NET_7	host	468	host_chromatin_organization	Process	GO:0016570	Histone modification	6.049999999999999e-147	Top STRING term is histone modification / chromatin organization.
+H_NET_8	host	422	host_ubiquitin_proteostasis	Process	GO:0051603	Proteolysis involved in protein catabolic process	1.15e-180	Top STRING term is proteolysis involved in protein catabolic process.
+H_NET_12	host	277	host_transcription_machinery	Process	GO:0006351	Transcription, DNA-templated	5.36e-83	Top STRING term is transcription, DNA-templated.
+H_NET_14	host	226	host_microtubule_cytoskeleton	Process	GO:0007017	Microtubule-based process	3.83e-98	Top STRING term is microtubule-based process.
+P_NET_1	pathogen	616	parasite_cellular_process_broad	Process	GO:0009987	Cellular process	7.78e-41	P_NET_1 has 616 proteins; STRING enrichment is generic cellular process / binding, not a tight surface module.
+P_NET_3	pathogen	324	parasite_cytoplasmic_metabolism	COMPARTMENTS	GOCC:0005737	Cytoplasm	2.5e-47	Top STRING terms are cytoplasm and metabolic pathways.
+P_NET_4	pathogen	225	parasite_rna_processing	Process	GO:0016071	mRNA metabolic process	3.32e-66	Top STRING term is mRNA metabolic process.

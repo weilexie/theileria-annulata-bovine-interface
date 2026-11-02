@@ -1,0 +1,10 @@
+host_program	parasite_program	axis_n	strict_axis_n	mean_rwr_endpoint_min	mean_threshold_consensus_frequency
+H_FUN_cytoskeleton_microtubule	surface_export_trafficking	2	1	0.9980276134122288	1.0
+H_NET_1	surface_export_trafficking	2	1	0.9957264957264957	1.0
+H_NET_5	protein_folding_processing	1	1	0.9990649211862144	1.0
+H_NET_14	surface_export_trafficking	2	0	0.9980276134122288	1.0
+H_NET_7	protein_folding_processing	1	0	0.9993425378040762	0.6666666666666666
+H_NET_8	protein_folding_processing	1	0	0.9986641731231632	0.6666666666666666
+H_FUN_ubiquitin_cullin	surface_export_trafficking	1	0	0.997370151216305	1.0
+H_NET_4	surface_export_trafficking	1	0	0.9967126890203812	1.0
+H_NET_12	protein_folding_processing	1	0	0.99474030243261	1.0

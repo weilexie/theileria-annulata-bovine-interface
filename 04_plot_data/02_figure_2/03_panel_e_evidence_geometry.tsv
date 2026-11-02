@@ -1,0 +1,36 @@
+node_id	scaffold_tier	localization_class	interface_function	local_core	recurrent_core	accessible_annot	parasite_program
+5874.Q464T6	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4U8W2	strict	membrane_bioenergetics	TRUE	TRUE	TRUE	TRUE	membrane_bioenergetics
+5874.Q4U9K2	strict	surface_export_trafficking	TRUE	TRUE	TRUE	TRUE	surface_export_trafficking
+5874.Q4U9M9	strict	surface_export_trafficking	TRUE	TRUE	TRUE	TRUE	surface_export_trafficking
+5874.Q4U9N0	strict	membrane_bioenergetics	TRUE	TRUE	TRUE	TRUE	membrane_bioenergetics
+5874.Q4U9Y9	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UAW5	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UB47	strict	surface_export_trafficking	TRUE	TRUE	TRUE	TRUE	surface_export_trafficking
+5874.Q4UBF7	strict	surface_export_trafficking	TRUE	TRUE	TRUE	TRUE	surface_export_trafficking
+5874.Q4UBG5	strict	membrane_bioenergetics	TRUE	TRUE	TRUE	TRUE	membrane_bioenergetics
+5874.Q4UCA0	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UCA5	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UCK0	strict	genome_expression_processing	TRUE	TRUE	TRUE	TRUE	genome_expression_processing
+5874.Q4UCT1	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UDT6	strict	surface_export_trafficking	TRUE	TRUE	TRUE	TRUE	surface_export_trafficking
+5874.Q4UE31	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UER4	strict	cytoskeletal_engagement	TRUE	TRUE	TRUE	TRUE	cytoskeletal_engagement
+5874.Q4UEV7	strict	surface_export_trafficking	TRUE	TRUE	TRUE	TRUE	surface_export_trafficking
+5874.Q4UF58	strict	surface_export_trafficking	TRUE	TRUE	TRUE	TRUE	surface_export_trafficking
+5874.Q4UGC2	strict	surface_export_trafficking	TRUE	TRUE	TRUE	TRUE	surface_export_trafficking
+5874.Q4UGG3	strict	surface_export_trafficking	TRUE	TRUE	TRUE	TRUE	surface_export_trafficking
+5874.Q4UGT6	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UGW6	strict	membrane_bioenergetics	TRUE	TRUE	TRUE	TRUE	membrane_bioenergetics
+5874.Q4UGX0	strict	surface_export_trafficking	TRUE	TRUE	TRUE	TRUE	surface_export_trafficking
+5874.Q4UH80	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UH81	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UH87	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UHA9	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UHH9	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UHS3	strict	membrane_bioenergetics	TRUE	TRUE	TRUE	TRUE	membrane_bioenergetics
+5874.Q4UHY8	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q4UI41	strict	surface_export_trafficking	TRUE	TRUE	TRUE	TRUE	surface_export_trafficking
+5874.Q4UIE4	strict	membrane_bioenergetics	TRUE	TRUE	TRUE	TRUE	membrane_bioenergetics
+5874.Q4UJ67	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	
+5874.Q8WPH8	relaxed	accessible_annot	FALSE	FALSE	TRUE	TRUE	

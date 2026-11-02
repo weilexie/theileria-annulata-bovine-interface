@@ -1,0 +1,28 @@
+node_id	preferred_name	in_local_core	is_retained_axis_endpoint	is_strict_axis_endpoint	parasite_program	axis_ids
+5874.Q4U9M9	TA08425	True	True	True	surface_export_trafficking	E0005;E0010
+5874.Q4UG71	PIN1	False	True	True	protein_folding_processing	E0001;E0002
+5874.Q4UGW0	TA20980	False	True	True	surface_export_trafficking	E0009
+5874.Q4UC89	TA04070	False	True	False	protein_folding_processing	E0014
+5874.Q4UC35	TA04375	False	True	False	protein_folding_processing	E0004
+5874.Q4UAT2	TA05560	False	True	False	surface_export_trafficking	E0020
+5874.Q4UDS2	TA11965	False	True	False	surface_export_trafficking	E0021
+5874.P25781	TACP	False	True	False	surface_export_trafficking	E0012;E0013
+5874.Q8WPH8	sp	False	True	False	surface_export_trafficking	E0007;E0008
+5874.Q4UCK0	MCM7	True	False	False	genome_expression_processing	
+5874.Q4UI41	TA06010	True	False	False	surface_export_trafficking	
+5874.Q4UIE4	TA06570	True	False	False	membrane_bioenergetics	
+5874.Q4UHS3	TA06760	True	False	False	membrane_bioenergetics	
+5874.Q4U9N0	TA08420	True	False	False	membrane_bioenergetics	
+5874.Q4U9K2	TA08575	True	False	False	surface_export_trafficking	
+5874.Q4U8W2	TA10280	True	False	False	membrane_bioenergetics	
+5874.Q4UDT6	TA12045	True	False	False	surface_export_trafficking	
+5874.Q4UER4	TA13850	True	False	False	cytoskeletal_engagement	
+5874.Q4UEV7	TA14090	True	False	False	surface_export_trafficking	
+5874.Q4UF58	TA14650	True	False	False	surface_export_trafficking	
+5874.Q4UB47	TA18010	True	False	False	surface_export_trafficking	
+5874.Q4UBG5	TA18615	True	False	False	membrane_bioenergetics	
+5874.Q4UBF7	TA18655	True	False	False	surface_export_trafficking	
+5874.Q4UGC2	TA19235	True	False	False	surface_export_trafficking	
+5874.Q4UGG3	TA19475	True	False	False	surface_export_trafficking	
+5874.Q4UGX0	TA20925	True	False	False	surface_export_trafficking	
+5874.Q4UGW6	TA20945	True	False	False	membrane_bioenergetics	

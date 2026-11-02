@@ -1,0 +1,12 @@
+axis_id	interaction_name	pathogen_gene	host_gene	final_tier	aggregate_robustness_score	host_module	pathogen_module	direct_physical_edge	interaction_type	edge_type	species_adjusted_confidence	mechanism_class
+TaPHB1--RUVBL1	TaPHB1--RUVBL1	TaPHB1	RUVBL1	Extended	0.9993425378040762	host_chromatin_organization	P_FUN_translation_folding	FALSE	direct_literature	direct_literature	0.85	Metabolic / proteostasis
+TaPin1--PKM	TaPin1--PKM	TaPin1	PKM	Core	0.9990649211862143	host_metabolism	P_FUN_translation_folding	TRUE	direct_validated	direct_validated	1	Metabolic / proteostasis
+TaPin1--FBXW7	TaPin1--FBXW7	TaPin1	FBXW7	Extended	0.9986641731231632	host_ubiquitin_proteostasis	P_FUN_translation_folding	FALSE	direct_literature	direct_literature	0.85	Metabolic / proteostasis
+p104--MAPRE1	p104--MAPRE1	p104	MAPRE1	Core	0.9986850756081526	H_FUN_cytoskeleton_microtubule	parasite_cellular_process_broad	TRUE	direct_validated	direct_validated	1	Microtubule docking
+TaSP--tubulin	TaSP--tubulin	TaSP	tubulin	Extended	0.9980276134122288	host_microtubule_cytoskeleton	P_FUN_surface_family	TRUE	direct_validated	direct_validated	1	Microtubule docking
+TaCP--CRBN	TaCP--CRBN	TaCP	CRBN	Extended	0.997370151216305	H_FUN_ubiquitin_cullin	parasite_cellular_process_broad	TRUE	direct_validated	direct_validated	1	Protease / cullin
+TaCP--PPP4C	TaCP--PPP4C	TaCP	PPP4C	Extended	0.997370151216305	H_FUN_cytoskeleton_microtubule	parasite_cellular_process_broad	TRUE	direct_validated	direct_validated	1	Protease / cullin
+TA05560--RBM39	TA05560--RBM39	TA05560	RBM39	Extended	0.9967126890203813	host_rna_processing	P_FUN_surface_family	TRUE	direct_validated	direct_validated	1	Trafficking / signaling
+TA20980--CD2AP	TA20980--CD2AP	TA20980	CD2AP	Core	0.9960552268244576	host_signaling_broad	parasite_cellular_process_broad	TRUE	direct_validated	direct_validated	1	Trafficking / signaling
+TA11965--TFG	TA11965--TFG	TA11965	TFG	Extended	0.9953977646285339	host_signaling_broad	parasite_cellular_process_broad	TRUE	direct_validated	direct_validated	1	Trafficking / signaling
+TaCyp1--MED21	TaCyp1--MED21	TaCyp1	MED21	Extended	0.9947403024326101	host_transcription_machinery	P_FUN_translation_folding	TRUE	direct_validated	direct_validated	1	Trafficking / signaling

@@ -1,0 +1,14 @@
+axis_id	biological_axis_id	axis_family	axis_role	representative_record_id	n_component_records	parasite_factor_name	host_target_name	physical_claim	all_source_consensus_tier	consensus_tier	independent_evidence_count	host_independent_recurrence_gate	manuscript_demoted	notes
+E0005	p104--MAPRE1	microtubule_docking	primary	E0005	1	p104	MAPRE1	pairwise_validated	strict	strict	2	TRUE	FALSE	family microtubule_docking 的 primary biological axis；E0010 p104–CLASP1 为同 family 的 context_only，不并入本轴。
+E0004	TaPHB1--RUVBL1	metabolic_proteostasis	primary	E0004	1	TaPHB1	RUVBL1	literature_recorded	strict	relaxed	1	FALSE	TRUE	独立 biological axis；direct_literature。all-source 曾为 strict，独立宿主源 <2，manuscript 降为 relaxed。
+E0001	TaPin1--PKM	metabolic_proteostasis	primary	E0001	1	TaPin1	PKM	pairwise_validated	strict	strict	2	TRUE	FALSE	独立 biological axis（TaPin1 × PKM）；与 E0002 同属 family metabolic_proteostasis，不合并（不同 host target/program）。
+E0009	TA20980--CD2AP	trafficking_signaling	primary	E0009	1	TA20980	CD2AP	pairwise_validated	strict	strict	2	TRUE	FALSE	独立 biological axis。
+E0021	TA11965--TFG	trafficking_signaling	primary	E0021	1	TA11965	TFG	pairwise_validated	strict	relaxed	1	FALSE	TRUE	独立 biological axis。all-source 曾为 strict，独立宿主源 <2，manuscript 降为 relaxed。
+E0002	TaPin1--FBXW7	metabolic_proteostasis	primary	E0002	1	TaPin1	FBXW7	literature_recorded	relaxed	relaxed	0	FALSE	FALSE	独立 biological axis（TaPin1 × FBXW7）；direct_literature，physical_claim=literature_recorded；不与 E0001 合并。
+E0007	TaSP--tubulin	microtubule_docking	component	E0008	2	TaSP	TUBA1A	pairwise_validated	relaxed	relaxed	2	TRUE	FALSE	component of biological axis TaSP--tubulin（tubulin isoforms of one surface–microtubule interaction）；representative=E0008。
+E0008	TaSP--tubulin	microtubule_docking	primary	E0008	2	TaSP	TUBG1	pairwise_validated	relaxed	relaxed	2	TRUE	FALSE	representative of TaSP--tubulin（更高 host_evidence_n=3，然后 rwr_endpoint_min，然后 proximity_support）；component records E0007|E0008。
+E0013	TaCP--PPP4C	protease_cullin	primary	E0013	1	TaCP	PPP4C	pairwise_validated	relaxed	relaxed	1	FALSE	FALSE	独立 biological axis（TaCP × PPP4C）；与 E0012 同属 family protease_cullin，不合并（不同 host target）。
+E0020	TA05560--RBM39	trafficking_signaling	primary	E0020	1	TA05560	RBM39	pairwise_validated	relaxed	relaxed	2	TRUE	FALSE	独立 biological axis。
+E0014	TaCyp1--MED21	trafficking_signaling	primary	E0014	1	TaCyp1	MED21	pairwise_validated	relaxed	relaxed	0	FALSE	FALSE	独立 biological axis。
+E0012	TaCP--CRBN	protease_cullin	primary	E0012	1	TaCP	CRBN	pairwise_validated	relaxed	relaxed	0	FALSE	FALSE	独立 biological axis（TaCP × CRBN）；与 E0013 同属 family protease_cullin，不合并（不同 host target）。
+E0010	p104--CLASP1	microtubule_docking	context	E0010	1	p104	CLASP1	cocomplex	context_only	context_only	1	FALSE	FALSE	独立 biological axis，axis_role=context；cocomplex，非 pairwise validated；不 promote 入 retained consensus。

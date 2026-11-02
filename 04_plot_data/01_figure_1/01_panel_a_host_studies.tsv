@@ -1,0 +1,7 @@
+study_family	dataset_n	effect_rows	omics_type	biological_context	integration_role	analyzable	side	primary_family	omics_group
+pxd010713_ev	1	1163	ev_proteome	TBL20 vs BL20 extracellular vesicles	independent_host_state	TRUE	host	TRUE	Proteome
+pxd056906_ev	1	2420	ev_proteome	Infected cattle serum extracellular vesicles	independent_host_state	TRUE	host	TRUE	Proteome
+dual_phospho	1	847	dual_phosphoproteome	BL3 vs TA dual phosphoproteome protein coverage	independent_host_state	TRUE	host	TRUE	Proteome
+schizont_copur	1	8375	proteome	Schizont Bos-space co-purification	interface_proximal	TRUE	host	FALSE	Proteome
+mc4404	1	65	proteome	eIF5A / MC4404 pulldown host layer	interface_proximal	TRUE	host	FALSE	Proteome
+bioid	1	18	proximity_proteome	Schizont-surface CLASP1 BioID host neighbours	interface_proximal	TRUE	host	FALSE	Proteome
