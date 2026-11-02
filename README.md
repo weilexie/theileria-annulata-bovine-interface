@@ -28,3 +28,5 @@ Rscript --vanilla 01_scripts/03_panels/01_figure_1/01_panel_a_included_studies.R
 ```
 
 Locked checks after the interface scripts: `03_algorithm_tables/` files matching `pcsf_parameter_stability` (18/18), `pcsf_node_selection_frequency` / `pcsf_edge_selection_frequency` (≥0.50 → 104 / 95), `parasite_local_convergence` (z = 4.66, P = 0.0001).
+
+Software versions, random seeds and STRING retrieval dates: `00_REPRODUCIBILITY.md`, `sessionInfo.txt`, `requirements.txt`.
